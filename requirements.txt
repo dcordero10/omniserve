@@ -1,0 +1,6 @@
+anthropic>=0.50.0
+pydantic>=2.7.0
+streamlit>=1.40.0
+python-dotenv>=1.0.1
+arize-otel>=0.14.0
+openinference-instrumentation-anthropic>=3.0.0
